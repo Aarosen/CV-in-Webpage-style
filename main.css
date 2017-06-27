@@ -1,0 +1,24 @@
+.cont {
+	background-color: rgba(84, 21, 23, 1);
+}
+
+.jum {
+	background-color: rgba(34, 31, 41, 1);
+}
+
+.atid, .hult, .tec {
+	background-color: rgba(142, 33, 29, 1);
+}
+
+.thumb {
+	border-style: none;
+}
+
+.some-text {
+	border-style: dashed;
+	border-color: rgba(180, 50, 38, 1);
+}
+
+.lists {
+	background-color: rgba(117, 27, 17, 1);
+}
